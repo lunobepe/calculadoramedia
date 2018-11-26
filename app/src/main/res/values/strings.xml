@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora de Média</string>
+    <string name="calcularmedia">Calcular Média</string>
+    <string name="nota1">1º Nota:</string>
+    <string name="nota2">2º Nota:</string>
+    <string name="nota3">3º Nota:</string>
+    <string name="nota4">4º Nota:</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="resul">""</string>
+    <string name="nota_1">""</string>
+    <string name="nota_2">""</string>
+    <string name="nota_3">""</string>
+    <string name="nota_4">""</string>
+
+</resources>
